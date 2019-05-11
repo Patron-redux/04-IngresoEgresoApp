@@ -2,3 +2,6 @@
 .cursor{
   cursor: pointer;
 }
+.input-group-append{
+  height:38px;
+}
